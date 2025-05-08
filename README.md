@@ -1,4 +1,4 @@
-# Web2
-this web developed by html , css and bootstrap.
+# web design 2
+This web developed by html and Bootstrap.
 
-<a href="https://parisamohebweb.github.io/Web2/">Online Demo</a>
+<a href="https://parisamohebweb.github.io/Web2/">**Online Demo**</a>
